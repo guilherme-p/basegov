@@ -1,0 +1,6 @@
+# Fields no objeto JSON devolvido pelo portal BASE que nao inclui na class Contract   
+
+contractingProcedureUrl
+documents
+cpvsValue
+cpvsDesignation

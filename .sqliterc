@@ -1,0 +1,8 @@
+-- Settings/otimizacoes convenientes
+-- Colocar em ~/.sqliterc
+
+.eqp ON 
+.headers ON
+.mode line 
+pragma mmap_size = 2048000000;
+pragma temp_store = 2;
