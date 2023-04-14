@@ -1,9 +1,9 @@
 # Basegov
-O objetivo deste repo é disponibilizar a informacao do [portal BASE](https://www.base.gov.pt/Base4/pt/pesquisa/) em formato Python e SQL (sqlite3), para fazer queries mais complexas.
-Alguns exemplos interessantes estao documentados em [queries.sql](queries.sql), mas tenho a certeza que alguem terá ideias melhores.
+O objetivo deste repo é disponibilizar a informação do [portal BASE](https://www.base.gov.pt/Base4/pt/pesquisa/) em formato Python e SQL (sqlite3), para fazer queries mais complexas.
+Alguns exemplos interessantes estão documentados em [queries.sql](queries.sql), mas tenho a certeza que alguem terá ideias melhores.
 
-Abaixo estao instrucoes sobre como fazer scrape e compilar esta informacao, mas para simplificar o processo dei upload no dataset que já fiz scrape.
-Contem 1,692,197 contratos e vai de 2008-08-05 até 2023-03-13 (acho que faltam cerca de 400 onde o servidor deu timeout consistentemente).
+Abaixo estão instrucoes sobre como fazer scrape e compilar esta informacao, mas para simplificar o processo dei upload no dataset que já fiz scrape.
+Contém 1,692,197 contratos e vai de 2008-08-05 até 2023-03-13 (acho que faltam cerca de 400 onde o servidor deu timeout consistentemente).
 
 [contracts_info.json](https://drive.google.com/file/d/1K1YGfKQcFJV3huQ52hzYm6DO8--pDkpn/view?usp=sharing) (478M compressed, 3.2G uncompressed)
 
